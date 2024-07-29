@@ -131,7 +131,7 @@ struct BottomSheetView: View {
                 .padding()
             Divider()
             List {
-                ForEach(characterCounts.sorted(by: { $0.value > $1.value }), id: \.key) { key, value in
+                ForEach(characterCounts.sorted(by: { $0.value > $1.value }).prefix(3), id: \.key) { key, value in
                     HStack {
                         Text("\(key)")
                         Spacer()
