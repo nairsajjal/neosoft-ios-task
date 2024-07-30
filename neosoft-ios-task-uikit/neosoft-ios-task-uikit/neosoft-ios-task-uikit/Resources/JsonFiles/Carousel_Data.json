@@ -1,0 +1,228 @@
+{
+    "carousel_Data": [
+        {
+            "carousel_image": "c_1",
+            "listData": [
+                {
+                    "image": "1",
+                    "title": "Chess"
+                },
+                {
+                    "image": "2",
+                    "title": "Cricket"
+                },
+                {
+                    "image": "3",
+                    "title": "Football"
+                },
+                {
+                    "image": "4",
+                    "title": "Foosball"
+                },
+                {
+                    "image": "5",
+                    "title": "Poker"
+                },
+                {
+                    "image": "6",
+                    "title": "TT"
+                },
+                {
+                    "image": "7",
+                    "title": "Snooker"
+                },
+                {
+                    "image": "8",
+                    "title": "Tennis"
+                },
+                {
+                    "image": "9",
+                    "title": "Basketball"
+                },
+                {
+                    "image": "19",
+                    "title": "Badminton"
+                },
+                {
+                    "image": "20",
+                    "title": "Darts"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_2",
+            "listData": [
+                {
+                    "image": "9",
+                    "title": "Vishakapatnam"
+                },
+                {
+                    "image": "8",
+                    "title": "Palakad"
+                },
+                {
+                    "image": "7",
+                    "title": "Chandigarh"
+                },
+                {
+                    "image": "6",
+                    "title": "Ambala"
+                },
+                {
+                    "image": "5",
+                    "title": "Panchkula"
+                },
+                {
+                    "image": "4",
+                    "title": "Ludhiana"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_3",
+            "listData": [
+                {
+                    "image": "3",
+                    "title": "Delhi"
+                },
+                {
+                    "image": "2",
+                    "title": "Rishikesh"
+                },
+                {
+                    "image": "7",
+                    "title": "Varanasi"
+                },
+                {
+                    "image": "6",
+                    "title": "Dhanulti"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_4",
+            "listData": [
+                {
+                    "image": "7",
+                    "title": "Nanital"
+                },
+                {
+                    "image": "6",
+                    "title": "Kasauli"
+                },
+                {
+                    "image": "9",
+                    "title": "Shimla"
+                },
+                {
+                    "image": "8",
+                    "title": "Himachal"
+                },
+                {
+                    "image": "7",
+                    "title": "Haryana"
+                },
+                {
+                    "image": "6",
+                    "title": "Punjab"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_5",
+            "listData": [
+                {
+                    "image": "20",
+                    "title": "Pineapple"
+                },
+                {
+                    "image": "15",
+                    "title": "Pomegranate"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_6",
+            "listData": [
+                {
+                    "image": "5",
+                    "title": "Bengaluru"
+                },
+                {
+                    "image": "6",
+                    "title": "Hyderabad"
+                },
+                {
+                    "image": "1",
+                    "title": "Chennai"
+                },
+                {
+                    "image": "2",
+                    "title": "Sydney"
+                },
+                {
+                    "image": "3",
+                    "title": "Melborne"
+                },
+                {
+                    "image": "4",
+                    "title": "Rome"
+                },
+                {
+                    "image": "7",
+                    "title": "Paris"
+                },
+                {
+                    "image": "8",
+                    "title": "London"
+                },
+                {
+                    "image": "9",
+                    "title": "Amsterdam"
+                }
+            ]
+        },
+        {
+            "carousel_image": "c_7",
+            "listData": [
+                {
+                    "image": "11",
+                    "title": "Australia"
+                },
+                {
+                    "image": "12",
+                    "title": "Dubai"
+                },
+                {
+                    "image": "13",
+                    "title": "Chandigarh"
+                },
+                {
+                    "image": "14",
+                    "title": "Pune"
+                },
+                {
+                    "image": "15",
+                    "title": "Mumbai"
+                },
+                {
+                    "image": "16",
+                    "title": "Maharashtra"
+                },
+                {
+                    "image": "17",
+                    "title": "Dehradun"
+                },
+                {
+                    "image": "18",
+                    "title": "Delhi"
+                },
+                {
+                    "image": "19",
+                    "title": "Pompei"
+                }
+            ]
+        }
+    ]
+}
+
